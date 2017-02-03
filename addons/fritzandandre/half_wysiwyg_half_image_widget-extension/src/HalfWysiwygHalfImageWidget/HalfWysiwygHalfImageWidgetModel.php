@@ -1,0 +1,5 @@
+<?php namespace Fritzandandre\HalfWysiwygHalfImageWidgetExtension\HalfWysiwygHalfImageWidget;
+
+use Anomaly\Streams\Platform\Model\BootstrapWidgets\BootstrapWidgetsHalfWysiwygHalfImageEntryModel;
+
+class HalfWysiwygHalfImageWidgetModel extends BootstrapWidgetsHalfWysiwygHalfImageEntryModel {}

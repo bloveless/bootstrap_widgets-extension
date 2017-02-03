@@ -1,0 +1,5 @@
+<?php namespace Fritzandandre\ThreeColumnWysiwygWidgetExtension\ThreeColumnWysiwygWidget;
+
+use Anomaly\Streams\Platform\Model\BootstrapWidgets\BootstrapWidgetsThreeColumnWysiwygEntryModel;
+
+class ThreeColumnWysiwygWidgetModel extends BootstrapWidgetsThreeColumnWysiwygEntryModel {}

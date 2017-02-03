@@ -1,0 +1,13 @@
+{
+  "name": "fritzandandre/bootstrap_widgets-extension",
+  "type": "streams-addon",
+  "autoload": {
+    "psr-4": {
+      "Fritzandandre\\BootstrapWidgetsExtension\\": "src/",
+      "Fritzandandre\\TwoColumnWysiwygWidgetExtension\\": "addons/fritzandandre/two_column_wysiwyg_widget-extension/src/",
+      "Fritzandandre\\ThreeColumnWysiwygWidgetExtension\\": "addons/fritzandandre/three_column_wysiwyg_widget-extension/src/",
+      "Fritzandandre\\HalfWysiwygHalfImageWidgetExtension\\": "addons/fritzandandre/half_wysiwyg_half_image_widget-extension/src/",
+      "Fritzandandre\\HalfImageHalfWysiwygWidgetExtension\\": "addons/fritzandandre/half_image_half_wysiwyg_widget-extension/src/"
+    }
+  }
+}
