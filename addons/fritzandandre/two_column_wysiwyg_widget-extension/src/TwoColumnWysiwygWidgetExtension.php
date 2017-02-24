@@ -56,7 +56,7 @@ class TwoColumnWysiwygWidgetExtension extends Extension implements LayoutExtensi
 
         return view('fritzandandre.extension.two_column_wysiwyg_widget::render', [
             'left_content'  => $twoColumnWysiwygWidget->left_content,
-            'right_content' => $twoColumnWysiwygWidget->left_content,
+            'right_content' => $twoColumnWysiwygWidget->right_content,
         ]);
     }
 }
